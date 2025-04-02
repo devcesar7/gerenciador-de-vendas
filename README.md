@@ -5,15 +5,22 @@ Este projeto é um Gerenciador de **Vendas e Devoluções desenvolvido em Python
 
 ## 🚀 Funcionalidades
 **Leitura de arquivos CSV** com dados de vendas.
+
 **Agrupamento e soma de dados** por produto e loja.
+
 **Cálculo do faturamento** por produto e loja.
+
 **Geração de relatórios** de produtos mais vendidos e lojas com maior faturamento.
+
 **Criação de um gráfico** interativo para visualização do faturamento por loja.
 
 ## 🛠️ Tecnologias Utilizadas
 **Python**
+
 **Pandas** (para manipulação de dados)
+
 **Plotly** (para visualização de dados)
+
 **OS** (para manipulação de arquivos)
 
 ## 📂 Estrutura do Projeto
