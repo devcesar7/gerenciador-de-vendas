@@ -37,7 +37,7 @@ Este projeto é um Gerenciador de **Vendas e Devoluções desenvolvido em Python
 ## ▶️ Como Executar o Projeto
 **Clone o repositório:**
    ```sh
-   git clone https://github.com/seu-usuario/gerenciador-de-vendas.git
+   git clone https://github.com/devcesar7/gerenciador-de-vendas.git
    ```
 **Acesse a pasta do projeto:**
    ```sh
